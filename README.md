@@ -41,3 +41,15 @@ Eatly/
 │── README.md          # Documentation
 └── js/                # (Future) JavaScript files for dynamic functionality
 ```
+
+## Code Breakdown
+### **Navbar** - Navigation for a seamless user experience
+```html
+<nav class="navbar">
+    <div class="wrapper">
+        <a class="navbar-brand" href="#">
+            <img src="imgs/Logo.png" alt="Logo" class="d-inline-block align-text-top"> eatly
+        </a>
+    </div>
+</nav>
+```
