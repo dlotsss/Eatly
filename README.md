@@ -5,11 +5,17 @@ Eatly is a modern **food ordering platform** that connects users with top restau
 
 ## Features
 ✔️ **Responsive & Modern UI** - Sleek design optimized for all devices.
+
 ✔️ **Restaurant Listings** - Discover top-rated restaurants.
+
 ✔️ **Menu Browsing** - Explore high-quality dishes with ratings and pricing.
+
 ✔️ **Authentication System** - Users can log in or sign up.
+
 ✔️ **Interactive UI Components** - FAQ section, sliders, and buttons.
+
 ✔️ **Multi-section Navigation** - Quickly move between home, app, menu, and FAQs.
+
 ✔️ **Real-Time Order Status** (Future Enhancement).
 
 ## Installation & Setup
@@ -79,5 +85,13 @@ Eatly/
 
 ## Future Enhancements
 🚀 **User Authentication** - Enable login/signup functionality.
+
 📱 **Mobile App Integration** - Extend Eatly to iOS and Android.
+
 📦 **Cart & Checkout System** - Allow users to add items to a cart and place orders.
+
+## License
+This project is **open-source** and free for **non-commercial** use.
+
+## Author
+Developed by **Dassayeva Sofiya**.
