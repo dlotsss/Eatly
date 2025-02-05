@@ -60,3 +60,15 @@ Eatly/
     <p class="usual-text">EatLy helps you set saving goals and order from premium restaurants.</p>
 </div>
 ```
+### **Menu Section** - Displaying Top Restaurants
+```html
+<div class="menu-rests" id="menu">
+    <h2 class="medium-header"> Our Top Restaurants </h2>
+    <div class="menucontainer">
+        <div class="rests-item">
+            <img src="imgs/RestImage1.png">
+            <h3 class="small-header"> The Chicken King </h3>
+        </div>
+    </div>
+</div>
+```
