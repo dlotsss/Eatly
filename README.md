@@ -17,3 +17,27 @@ Eatly is a modern **food ordering platform** that connects users with top restau
 - A modern web browser (Chrome, Firefox, Safari, Edge).
 - A web server (optional for testing locally).
 
+### Running Locally:
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/yourusername/eatly.git
+   ```
+2. Navigate into the project folder:
+   ```sh
+   cd eatly
+   ```
+3. Open `index.html` in your browser or start a local server:
+   ```sh
+   python -m http.server 8000
+   ```
+   Then visit `http://localhost:8000/` in your browser.
+
+## Folder Structure
+```
+Eatly/
+│── index.html         # Main HTML file
+│── style.css          # Main CSS file
+│── imgs/              # Contains images used in the project
+│── README.md          # Documentation
+└── js/                # (Future) JavaScript files for dynamic functionality
+```
