@@ -53,3 +53,10 @@ Eatly/
     </div>
 </nav>
 ```
+### **Main Page** - Hero Section
+```html
+<div class="main-page" id="home">
+    <h1 class="header">Enjoy Foods All Over The World</h1>
+    <p class="usual-text">EatLy helps you set saving goals and order from premium restaurants.</p>
+</div>
+```
