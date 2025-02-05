@@ -72,3 +72,12 @@ Eatly/
     </div>
 </div>
 ```
+## Technologies Used
+- **HTML** - Structuring the application.
+- **CSS** - Styling and making the UI responsive.
+- **JavaScript** (Future Enhancements) - Dynamic interactions and real-time updates.
+
+## Future Enhancements
+🚀 **User Authentication** - Enable login/signup functionality.
+📱 **Mobile App Integration** - Extend Eatly to iOS and Android.
+📦 **Cart & Checkout System** - Allow users to add items to a cart and place orders.
