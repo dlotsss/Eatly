@@ -84,7 +84,7 @@ Eatly/
 - **JavaScript** (Future Enhancements) - Dynamic interactions and real-time updates.
 
 <a href="https://youtu.be/2E62Hb-AWWQ" target="_blank">
-    <img src="imgs/video-thumbnail.png" alt="Watch the video" width="500">
+    <img src="imgs/video-thumbnail.png" alt="Watch the demo" width="500">
 </a>
 
 ## Future Enhancements
