@@ -83,6 +83,10 @@ Eatly/
 - **CSS** - Styling and making the UI responsive.
 - **JavaScript** (Future Enhancements) - Dynamic interactions and real-time updates.
 
+<a href="https://youtu.be/2E62Hb-AWWQ" target="_blank">
+    <img src="imgs/video-thumbnail.png" alt="Watch the video" width="500">
+</a>
+
 ## Future Enhancements
 🚀 **User Authentication** - Enable login/signup functionality.
 
